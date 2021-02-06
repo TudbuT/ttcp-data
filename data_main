@@ -14,4 +14,20 @@ users {
   
 }
 
-version: v1.0.0a
+
+security {
+  
+  main {
+  
+  }
+  
+  
+  false {
+    0: true
+    1: false
+    2: true
+  }
+  
+}
+
+version: v1.0.0b
