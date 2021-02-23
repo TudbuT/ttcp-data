@@ -56,6 +56,12 @@ users {
   }
   
   
+  # CubicLP
+  4d13793e-23f3-4161-99eb-0ac9dfddbb99 {
+    login: 7157018fa92e5e5b36a689fd1d9a6878e2f159c713a0db7c2b64538e1a70b079308a9605ce94c2fe8fa1e7284e34c5de3b7da1c378b5e301f322ff37ea5a9c9c
+  }
+  
+  
   # guywivahat (demo)
   d19959d8-b8b7-4742-b3be-2527b7ca8f9d {
     login: 2f6c5d2f6d5a5011f9f498476cf424b57b6ad5f90cf225c03525de77b78ed45ec57f6d9ebddaa20a130f555cb871f00bbefd5d3fea501b24ca5d5578122acfd2
